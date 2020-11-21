@@ -1,6 +1,6 @@
 # Code Challenge 2
 ### 1st Process
-1. Forked code challenge 2 from [Dele's Instruction Page](https://github.com/msimbo/code-challenge-2)
+1. Forked code challenge 2 from [Instruction Page](https://github.com/msimbo/code-challenge-2)
 2. Cloned code challenge 2 to my directory **"git clone http://"**
 3. Searched online for **Vector Logos & Icons** 
 4. I added additional **logos & icons** to my *Directory*
