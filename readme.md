@@ -39,7 +39,7 @@
    * etc.
 
 4. Occasionally, I would also update the readme.md file as well.
-5. This project was very challenging, I had to research online on how to properly create the Google.com search bar, either exact or as close as I could.
+5. This project was very challenging, I had to research online on how to properly create the Google.com search bar, either exact or as close as I could. I would also utilize the reading we did in Project-2.
 6. I enjoyed this challenege, looking forward to the up and coming weeks.
 
 
