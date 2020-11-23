@@ -1,7 +1,7 @@
 # Code Challenge 2
 ### 1st Process
 1. Forked code challenge 2 from [Instruction Page](https://github.com/msimbo/code-challenge-2), which creates a copy of the code challenge 2 Repository (Repo) into my own Github account. 
-2. Cloned code challenge 2 to my directory **git clone http://**
+2. Cloned code challenge 2 to my directory **msimbo-coding** by using command **git clone http://**
 3. Searched online for **Vector Logos & Icons** 
 4. I added additional **logos & icons** to my *Directory*
 5. Made sure all is in sync with github
@@ -15,3 +15,6 @@
 1. Opened project **Code Challenge 2** in **VSCODE** using commandline
    #### Example:
    * Type: **code** *(Make sure your in the projects directory)*
+2. After opening the inex.html file I noticed Dele (The Professor) had begun the initial layout.
+   ### Example:
+   * Navbar
